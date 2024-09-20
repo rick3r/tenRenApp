@@ -27,7 +27,6 @@ export default function ActionCard() {
                 <View style={styles.footerContainer}>
                     <TouchableOpacity
                         onPress={() => openWebsite('https://blog.google/intl/en-ca/products/explore-get-answers/google-montreal-20-years-of-exploration-and-discovery/')}
-                    style={styles.to1}
                     >
                         <Text style={styles.socialLinks}>Read more</Text>
                     </TouchableOpacity>
