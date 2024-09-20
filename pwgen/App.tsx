@@ -36,7 +36,7 @@ export default function App() {
     return result
   }
 
-}
+
 
 const resetPassswordState = () => { }
 
